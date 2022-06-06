@@ -3,6 +3,11 @@ nav {
     background-color: #3C3A39;
 }
 
+/* disable hamburger styles */
 .btn-handle {
     border:none;
+}
+
+.h1-color-1 {
+    color: #FF6B00;
 }

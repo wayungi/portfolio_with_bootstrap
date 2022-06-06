@@ -1,3 +1,8 @@
-.time-bar {
+.time-bar,
+nav {
     background-color: #3C3A39;
+}
+
+.btn-handle {
+    border:none;
 }

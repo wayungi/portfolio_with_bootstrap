@@ -19,3 +19,15 @@ nav {
 .see-project {
     background-color: #ff6b00;
 }
+
+
+.bg-img{
+    background-image: url('imgs/images/section_bg.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* language links on dark background */
+.bg-grey{
+    background-color: rgba( 211,211,211, .4 );
+}

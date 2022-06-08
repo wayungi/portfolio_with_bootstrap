@@ -1,3 +1,8 @@
+/* *{
+    margin:0;
+    padding:0;
+} */
+
 .time-bar,
 nav {
     background-color: #3C3A39;
@@ -30,4 +35,9 @@ nav {
 /* language links on dark background */
 .bg-grey{
     background-color: rgba( 211,211,211, .4 );
+}
+
+/* creating needed space for background image */
+div.about-me {
+    padding-bottom: 240px;
 }

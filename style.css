@@ -1,0 +1,62 @@
+/* *{
+    margin:0;
+    padding:0;
+} */
+
+.time-bar,
+nav {
+    background-color: #3C3A39;
+}
+
+/* disable hamburger styles */
+.btn-handle {
+    border:none;
+}
+
+.h1-color-1 {
+    color: #FF6B00;
+}
+
+.section-1 {
+    background-color: black;
+}
+
+.see-project {
+    background-color: #ff6b00;
+}
+
+
+.bg-img{
+    background-image: url('imgs/images/section_bg.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* language links on dark background */
+.bg-grey{
+    background-color: rgba( 211,211,211, .4 );
+}
+
+/* creating needed space for background image */
+div.about-me {
+    padding-bottom: 240px;
+}
+
+h1.h1-language {
+    background-image: url('imgs/images/rect_55.svg');
+    background-position: 50px 2px;
+}
+
+h1.h1-frameworks {
+    background-image: url('imgs/images/rect_56.svg');
+    background-position: 30px 8px;
+}
+
+h1.h1-skills {
+    background-image: url('imgs/images/circle_57.svg');
+    background-position:80px 8px;
+}
+
+h1.h1-frameworks, h1.h1-language, h1.h1-skills {
+    background-repeat: no-repeat; 
+}
